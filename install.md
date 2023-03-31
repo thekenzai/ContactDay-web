@@ -4,7 +4,7 @@ ___
 **Open terminal**
 
 `git clone git@github.com:thekenzai/ContactDay-web.git` 
-##### Open Speakid Directory
+##### Open ContactDay-web Directory
 `cd ContactDay-web`
 ##### Install npm dependencies
 `npm install` 
