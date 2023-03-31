@@ -1,6 +1,6 @@
 Main objectives
 ---------------
-ContactDay is a cross platform developed for kids aged between 3 and 17 years old suffering from speaking disorder and articulation troubles. It aims to :  
+ContactDay-web is a cross platform developed for kids aged between 3 and 17 years old suffering from speaking disorder and articulation troubles. It aims to :  
 
 - Acquire better pronunciation of words.
 - Improve children’s capacity of assimilation.
