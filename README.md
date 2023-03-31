@@ -16,7 +16,7 @@ Our solution : ContactDay
 -----------------------
 In the face of the lack of attention of the parents towards this kind of phenomena and the expensiveness of a visit to a speech therapist, ContactDay comes to the rescue by helping to solve these problems through increasing parents’ awareness, helping kids practicing speaking and pronouncing, repeating letters, words, sentences and sounds, and by improving their communication skills and consequently getting them to build their self-esteem and confidence without spending a cent.  
 
-This application also connects doctors with their patients through the [ContactDay website](https://github.com/DSC-ENSB/ContactDay-web).
+This application also connects doctors with their patients through the [ContactDay website](https://github.com/thekenzai/ContactDay).
 
 Technologies used
 ------------------
@@ -28,7 +28,7 @@ ContactDay is a cross platform and it required the following technologies :
 
 Code instructions
 ------------------
-To run the code, click [here](https://github.com/DSC-ENSB/ContactDay-web/blob/main/install.md).
+To run the code, click [here](https://github.com/thekenzai/ContactDay/blob/main/install.md).
 
 Possible next features
 ----------------------
