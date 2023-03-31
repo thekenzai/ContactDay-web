@@ -1,11 +1,11 @@
 # How to install 
 ___
-##### Clone ContactDay web repository 
+##### Clone ContactDay-web repository 
 **Open terminal**
 
 `git clone git@github.com:thekenzai/ContactDay-web.git` 
 ##### Open Speakid Directory
-`cd ContactDay`
+`cd ContactDay-web`
 ##### Install npm dependencies
 `npm install` 
 ##### Run 
